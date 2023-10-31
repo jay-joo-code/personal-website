@@ -1,3 +1,3 @@
-# revy
+# Personal website
 
-revy is a carpool matching web app for Cornell University.
+This is a rough personal website for a communications course.
