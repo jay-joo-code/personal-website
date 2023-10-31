@@ -39,7 +39,7 @@
 						<div>
 							<button>
 								<a href="/" class="btn-ghost btn px-1 text-2xl font-bold normal-case">
-									<p class="uppercase">{APP_NAME}</p>
+									<p class="">{APP_NAME}</p>
 									{#if IS_BETA}
 										<span class="mt-2 hidden text-sm text-base-content/60 md:block">beta</span>
 									{/if}
