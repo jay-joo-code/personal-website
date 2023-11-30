@@ -74,7 +74,7 @@
 	</div>
 
 	<!-- projects -->
-	<div class="flex min-h-[50vh] items-center">
+	<div class="flex min-h-[30vh] items-center">
 		<div class="w-full">
 			<h2 class="text-2xl font-extrabold text-primary">Projects</h2>
 			<div class="mt-12 w-full space-y-8">
@@ -93,6 +93,18 @@
 					</div>
 					<p class="mt-1 text-sm text-base-content/80">Lead software engineer</p>
 				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- contact -->
+	<div class="flex min-h-[50vh] items-center">
+		<div class="w-full">
+			<h2 class="text-2xl font-extrabold text-primary">Contact</h2>
+			<div class="mt-4">
+				<a class="link" href="https://www.linkedin.com/in/jay-joo-341191135/" target="_blank"
+					>LinkedIn</a
+				>
 			</div>
 		</div>
 	</div>
