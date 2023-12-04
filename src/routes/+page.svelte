@@ -6,7 +6,7 @@
 	<!-- hero -->
 	<section class="flex h-[50vh] flex-col justify-center">
 		<h1 class="text-5xl font-extrabold">Hi, I'm Jay 👋</h1>
-		<p class="mt-8  leading-relaxed text-base-content/80">
+		<p class="mt-8 text-lg leading-relaxed text-base-content/80">
 			I'm Jay, a software engineer and computer science major graduate from Cornell University. I
 			aspire to build performant software to deliver business impact.
 		</p>
@@ -16,17 +16,17 @@
 	<div class="flex min-h-[50vh] items-center">
 		<div class="">
 			<h2 class="text-2xl font-extrabold text-primary">Background</h2>
-			<p class="mt-6 text-sm leading-relaxed text-base-content/80">
+			<p class="mt-10 leading-loose text-base-content/80">
 				Hey there, I'm Jay, and I'm thrilled to be a part of the tech world as a software engineer!
 				I recently graduated from Cornell University with a degree in Computer Science, and I've
 				been on a mission to turn my passion for coding into real-world solutions ever since.
 			</p>
-			<p class="mt-6 text-sm leading-relaxed text-base-content/80">
+			<p class="mt-6 leading-loose text-base-content/80">
 				From crafting elegant algorithms to creating user-friendly applications, I'm all about
 				bringing creativity and innovation to the digital realm. My journey in the world of computer
 				science has been nothing short of exhilarating.
 			</p>
-			<p class="mt-6 text-sm leading-relaxed text-base-content/80">
+			<p class="mt-6 leading-loose text-base-content/80">
 				I'm always eager to tackle new challenges and learn from the incredible community of
 				developers out there. Whether it's debugging lines of code or brainstorming the next big
 				app, you can count on me to bring enthusiasm and a fresh perspective to every project. Let's
