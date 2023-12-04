@@ -44,7 +44,7 @@
 	</div>
 
 	<!-- work experience -->
-	<div class="flex min-h-[50vh] items-center">
+	<div class="mt-24 flex items-center" id="experience">
 		<div class="w-full">
 			<h2 class="text-2xl font-extrabold text-primary">Work experience</h2>
 			<div class="mt-12 w-full space-y-12">
@@ -101,7 +101,7 @@
 	</div>
 
 	<!-- projects -->
-	<div class="flex min-h-[30vh] items-center">
+	<div class="mt-24 flex items-center" id="projects">
 		<div class="w-full">
 			<h2 class="text-2xl font-extrabold text-primary">Projects</h2>
 			<div class="mt-12 w-full space-y-8">
@@ -152,7 +152,7 @@
 	</div>
 
 	<!-- contact -->
-	<div class="flex min-h-[50vh] items-center">
+	<div class="mt-24 mb-48 flex items-center" id="contact">
 		<div class="w-full">
 			<h2 class="text-2xl font-extrabold text-primary">Contact</h2>
 			<div class="mt-4">
