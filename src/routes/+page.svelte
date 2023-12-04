@@ -105,7 +105,18 @@
 						<p class="text-sm font-medium text-base-content/80">Jun 2020 - Current</p>
 					</div>
 					<p class="mt-1 text-sm text-base-content/80">Sole founder, software engineer</p>
-					<p class="text-sm text-base-content/80">12,000+ users</p>
+					<div class="mt-1 space-x-1">
+						<a class="link text-sm" href="https://www.cornlet.com/" target="_blank" rel="noreferrer"
+							>Website
+						</a>
+						<a
+							class="link text-sm"
+							href="https://github.com/jay-joo-code/cornlet"
+							target="_blank"
+							rel="noreferrer"
+							>Github
+						</a>
+					</div>
 				</div>
 				<div class="w-full">
 					<div class="flex justify-between">
@@ -113,6 +124,22 @@
 						<p class="text-sm font-medium text-base-content/80">Aug 2023 - Current</p>
 					</div>
 					<p class="mt-1 text-sm text-base-content/80">Lead software engineer</p>
+					<div class="mt-1 space-x-1">
+						<a
+							class="link text-sm"
+							href="https://www.revycarpool.com/"
+							target="_blank"
+							rel="noreferrer"
+							>Website
+						</a>
+						<a
+							class="link text-sm"
+							href="https://github.com/jay-joo-code/glue2-ridehub"
+							target="_blank"
+							rel="noreferrer"
+							>Github
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
