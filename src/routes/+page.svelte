@@ -1,5 +1,6 @@
 <script lang="ts">
 	import PageContainer from '$lib/components/glue/PageContainer.svelte';
+	import { toast } from '@zerodevx/svelte-toast';
 </script>
 
 <PageContainer title="Home">
@@ -40,13 +41,17 @@
 	<div class="flex min-h-[50vh] items-center">
 		<div class="w-full">
 			<h2 class="text-2xl font-extrabold text-primary">Work experience</h2>
-			<div class="mt-12 w-full space-y-8">
+			<div class="mt-12 w-full space-y-12">
 				<div class="w-full">
 					<div class="flex justify-between">
 						<h3 class="text-lg font-extrabold">Akuna Capital</h3>
 						<p class="text-sm font-medium text-base-content/80">Jun - Aug 2023</p>
 					</div>
 					<p class="text-sm text-base-content/80">Software Engineer Intern</p>
+					<p class="mt-2 text-sm text-base-content/80">
+						Akuna Capital is a quant trading firm that provides liquidity to the market as an
+						options market-maker
+					</p>
 				</div>
 				<div class="">
 					<div class="flex justify-between">
@@ -54,6 +59,12 @@
 						<p class="text-sm font-medium text-base-content/80">Jun - Aug 2022</p>
 					</div>
 					<p class="text-sm text-base-content/80">Software Engineer Intern</p>
+					<p class="mt-2 text-sm text-base-content/80">
+						Improved HubDB sorting efficiency in Javascript and React, which decreased average sort
+						time from 2 minutes to 0.8 seconds. Developed multiple RESTful API endpoints in Java
+						which parses and sorts HubDB data, reducing client-side computation and significantly
+						improving performance.
+					</p>
 				</div>
 				<div class="">
 					<div class="flex justify-between">
@@ -61,6 +72,11 @@
 						<p class="text-sm font-medium text-base-content/80">Jan - Apr 2021</p>
 					</div>
 					<p class="text-sm text-base-content/80">Software Engineer Intern</p>
+					<p class="mt-2 text-sm text-base-content/80">
+						Shortened alert latency by 1100% in Typescript and Vue.js by integrating webhooks to the
+						notification system. Integrated with Slack, Gmail, and Github APIs to compile
+						notification data with Javascript and Ruby on Rails
+					</p>
 				</div>
 				<div class="">
 					<div class="flex justify-between">
@@ -68,6 +84,11 @@
 						<p class="text-sm font-medium text-base-content/80">Apr - Sep 2018</p>
 					</div>
 					<p class="text-sm text-base-content/80">Software Engineer Intern</p>
+					<p class="mt-2 text-sm text-base-content/80">
+						Developed the insurance recommendation feature in Node.js and Javascript, which returned
+						top 5 insurance policies stored in MongoDB based on the user’s circumstances input in
+						the React app.
+					</p>
 				</div>
 			</div>
 		</div>
