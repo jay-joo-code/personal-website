@@ -1,16 +1,22 @@
 <script lang="ts">
 	import PageContainer from '$lib/components/glue/PageContainer.svelte';
 	import { toast } from '@zerodevx/svelte-toast';
+	import headshot from '$lib/headshot.png';
 </script>
 
 <PageContainer title="Home">
 	<!-- hero -->
 	<section class="flex h-[50vh] flex-col justify-center">
-		<h1 class="text-5xl font-extrabold">Hi, I'm Jay 👋</h1>
-		<p class="mt-8 text-lg leading-relaxed text-base-content/80">
-			I'm Jay, a software engineer and computer science major graduate from Cornell University. I
-			aspire to build performant software to deliver business impact.
-		</p>
+		<div class="flex items-start">
+			<img class="mr-10 w-48 rounded-xl" src={headshot} />
+			<div class="">
+				<h1 class="text-5xl font-extrabold">Hi, I'm Jay 👋</h1>
+				<p class="mt-8 text-lg leading-relaxed text-base-content/80">
+					I'm Jay, a software engineer and computer science major graduate from Cornell University.
+					I aspire to build performant software to deliver business impact.
+				</p>
+			</div>
+		</div>
 	</section>
 
 	<!-- background -->
